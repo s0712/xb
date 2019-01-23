@@ -1,0 +1,32 @@
+@font-face {
+	font-family: Frozen;
+	src: url('../font/Frozen.ttf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Bold;
+	src: url('../font/SourceHanSansSC-Bold.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-ExtraLight;
+	src: url('../font/SourceHanSansSC-ExtraLight.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Heavy;
+	src: url('../font/SourceHanSansSC-Heavy.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Light;
+	src: url('../font/SourceHanSansSC-Light.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Medium;
+	src: url('../font/SourceHanSansSC-Medium.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Normal;
+	src: url('../font/SourceHanSansSC-Normal.otf');
+}
+@font-face {
+	font-family: SourceHanSansSC-Regular;
+	src: url('../font/SourceHanSansSC-Regular.otf');
+}
